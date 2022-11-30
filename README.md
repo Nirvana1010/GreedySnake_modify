@@ -1,10 +1,12 @@
-# GreedySnake_modify 程序编译平台为Visual Studio 2010.
-南开大学高级语言程序设计2-2，课程大作业——贪吃蛇，在老师原版上添加功能后的最终提交版本。
+# GreedySnake with advanced modification
 
-在实现贪吃蛇游戏基本功能的前提下，添加了部分个性化功能：
+Under the premise of realizing the basic functions of the snake game, some personalized features have been added.
 
-1.吃不同颜色的食物，蛇会变成相应颜色；
+1. eating food of different colors, the snake will turn into the corresponding color.
 
-2.不同颜色的事物具有不同的功能，青色：加速，蓝色：减速，红色：缩短，紫色：增长；
+2. different colored things have different functions, cyan: speed up, blue: slow down, red: shorten, purple: grow.
 
-3.设置关卡制度，等级高的关卡速度变快，食物的分数会相应增加。
+3. Set the level system, the level with high level becomes faster and the score of food will increase accordingly.
+
+
+Translated with www.DeepL.com/Translator (free version)
